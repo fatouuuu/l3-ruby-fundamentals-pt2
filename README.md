@@ -1,14 +1,17 @@
 # RUBY FUNDAMENTALS
+
 This repository will be used as the guide during the lecture on fundamentals of the Ruby language.
 
 This repo contains a list of `TODOs`. Ensure you complete all of them.
 
 ## Tools Used
+
 This project was built with the following tools:
 
 - [Ruby ~ v3.1.+](https://www.ruby-lang.org/en/)
 
 ## Topics Covered
+
 The following are the concepts covered in this practice session
 
 - Control Flow in Ruby
@@ -17,6 +20,7 @@ The following are the concepts covered in this practice session
 Documentation on the Ruby language can be found here: [Ruby Docs](https://docs.ruby-lang.org/en/3.1/)
 
 ## Pre-requisites
+
 In order to use this repo you need to have the following installed:
 
 - OS [either: Windows 10+, Linux or MacOS(running on x86 or arm architecture)]
@@ -54,7 +58,6 @@ To use this repo on your machine requires some simple steps
 
         git clone https://github.com/your-username-here/l3-ruby-fundamentals-pt2.git
 
-
 # Running the application
 
 Running the application is very straight forward. You can use the following steps to run the app.
@@ -68,8 +71,11 @@ Running the application is very straight forward. You can use the following step
       ruby main.rb
 
 # Authors
+
 This project was contributed to by:
+
 - [Ian Okumu](https://github.com/otsembo/)
 
 # License
+
 The project is licensed under Apache 2.0.
